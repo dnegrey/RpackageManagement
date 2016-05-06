@@ -1,6 +1,8 @@
-# r-pkg-mgmt
+# RpackageManagement
 
-*version 1.0.1*
+*version 1.1.0*
 
 ## `./`
-R scripts for installing/updating packages
+
+* `installPackages.R`: R script for installing packages
+* `updatePackages.R`: R script for updating packages
